@@ -1,6 +1,8 @@
 in anacondia command prompt,  type 
 
 activate pyfinance
+
+
 python demo.py
 
 
